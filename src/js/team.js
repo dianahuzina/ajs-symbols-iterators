@@ -15,7 +15,6 @@ export default class Team {
             done: false
           }
         }
-        current++;
         return {
           done: true
         }
